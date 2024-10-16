@@ -25,10 +25,16 @@ To run the solutions, you need to have the appropriate programming language envi
 
 - C++
 - Python
-- (Any other languages you're using)
 
-## Running the Solutions
-
+## Running the solutions 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/project-euler-solutions.git
+      git clone https://github.com/your-username/project-euler-solutions.git
+2. Navigate to the problem folder and run the solution:
+For C++:
+      ```bash
+   g++ solution.cpp -o solution
+   ./solution
+For python:
+   ```bash
+   python3 solution.py
