@@ -29,7 +29,7 @@ To run the solutions, you need to have the appropriate programming language envi
 ## Running the solutions 
 1. Clone this repository:
    ```bash
-      git clone https://github.com/your-username/project-euler-solutions.git
+      git clone https://github.com/mahaafaisal/project-euler-solutions.git
 2. Navigate to the problem folder and run the solution:
 For C++:
       ```bash
